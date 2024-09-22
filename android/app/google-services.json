@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "536637827424",
+    "project_id": "smsapp-4d966",
+    "storage_bucket": "smsapp-4d966.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536637827424:android:ba4a56e9ee9ade23c51605",
+        "android_client_info": {
+          "package_name": "com.krishna.smsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB36I1XngGe_5MC7xcGjpMdnunCV62GFMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
